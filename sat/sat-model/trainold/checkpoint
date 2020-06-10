@@ -1,0 +1,6 @@
+model_checkpoint_path: "debug-47000"
+all_model_checkpoint_paths: "debug-44000"
+all_model_checkpoint_paths: "debug-45000"
+all_model_checkpoint_paths: "best-45000"
+all_model_checkpoint_paths: "debug-46000"
+all_model_checkpoint_paths: "debug-47000"
